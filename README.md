@@ -12,5 +12,5 @@ My live site:https://3omeed.github.io/tribute-page/
 
 
 screenshots:  
-![image](tribute.png)
-![image](WhatsApp Image 2022-08-18 at 7.31.39 PM.jpeg "icon")
+[image](tribute.png)  
+[image](WhatsApp Image 2022-08-18 at 7.31.39 PM.jpeg "icon")
