@@ -16,4 +16,4 @@ screenshots:
 
 ![mobile](https://github.com/3omeed/tribute-page/blob/main/photos/WhatsApp%20Image%202022-08-18%20at%207.31.39%20PM.jpeg)
 
-by: [Abdelrahman Emad](https://www.linkedin.com/in/abdelrahman-emad-57bb10237/)
+by: [Abdelrahman Emad](https://www.linkedin.com/in/abdelrahman-emad-57bb10237/ WIDTHxHEIGHT=300x300)
